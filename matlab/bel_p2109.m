@@ -1,4 +1,4 @@
-function L = bel(f, p, cl, th)
+function L = bel_p2109(f, p, cl, th)
 %bel building entry loss according to ITU-R P.2109-1
 %   L = bel_p2109(f, p, cl, th)
 %
